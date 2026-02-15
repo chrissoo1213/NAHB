@@ -1,0 +1,12 @@
+# General
+venv/
+*.pyc
+.env
+.env.local
+
+# Flask
+flask_api/instance/
+
+# Django
+django_app/db.sqlite3
+*.log
