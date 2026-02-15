@@ -1,7 +1,3 @@
-Here’s a completely rebranded README for your new concept.
-
-You can replace your entire current README with this:
-
 🧠 Mindfall: Psychological Horror Engine
 
 A full-stack web application for creating, exploring, and publishing interactive psychological horror experiences where every decision fractures reality.
